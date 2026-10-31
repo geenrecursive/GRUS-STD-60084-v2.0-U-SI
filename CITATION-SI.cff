@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this standard, please cite it as below."
+title: "GRUS-STD-60084 v2.0-U-SI: Measurement and Reporting of Resource Consumption by Large Computational Loads (Uniform Edition, SI units)"
+authors:
+  - family-names: Cordova
+    given-names: Nicholas Wray
+    affiliation: "Green Recursive Utility Service LLC"
+    email: management@greenrecursiveutilityservice.org
+url: "https://hal.science/hal-05846591"
+repository-code: "https://github.com/geenrecursive/GRUS-STD-60084-v2.0-U-SI"
+license: CC0-1.0
+version: "2.0-U-SI"
+date-released: 2026-10-30
+identifiers:
+  - type: url
+    value: "https://hal.science/hal-05846591"
+    description: "SI (metric) Edition — HAL deposit of record for this edition"
+  - type: doi
+    value: 10.5281/zenodo.23246001
+    description: "Uniform Edition — version of record of the standard (Zenodo)"
+  - type: doi
+    value: 10.5281/zenodo.23072904
+    description: "Zenodo concept DOI — the editions chain (Texas / instructions / Uniform)"
+  - type: doi
+    value: 10.5281/zenodo.23072905
+    description: "Texas Edition, GRUS-STD-60084 v2.0 rev. 1 (Zenodo)"
+  - type: url
+    value: "https://greenrecursiveutilityservice.org"
+    description: "Publisher — Green Recursive Utility Service LLC"
+keywords:
+  - data centers
+  - measurement standard
+  - water consumption
+  - energy reporting
+  - large computational loads
+  - AI infrastructure
+abstract: >-
+  GRUS-STD-60084 v2.0-U-SI is the metric edition of the
+  GRUS-STD-60084 measurement standard for large computational
+  loads: a two-axis facility classification (workload shape
+  W-1/W-2/W-3; cooling type C-1 through C-5), boundary water
+  quantities derived from first principles in SI units, five
+  evidence grades, and a ten-step reproducible measurement
+  protocol. Published free for adoption by any jurisdiction;
+  law-dependent values are fill-in jurisdictional entries
+  completed by the adopting authority. Version of record of the
+  standard: GRUS-STD-60084 v2.0-U (Uniform Edition),
+  doi:10.5281/zenodo.23246001.
